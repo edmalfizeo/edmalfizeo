@@ -7,7 +7,7 @@ I'm Eduardo Oliveira Mafezoli, a information systems student. Currently in the s
 # 🌐 Socials
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
+![Edmalfizeo github stats](https://github-readme-stats.vercel.app/api?username=edmalfizeo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!--
 **edmalfizeo/edmalfizeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=edmalfizeo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![edmalfizeo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edmalfizeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Edmalfizeo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edmalfizeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
