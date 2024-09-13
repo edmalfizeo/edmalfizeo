@@ -26,7 +26,7 @@
 
 ## 📊 Wakatime Stats
 
-[![Eduardo's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=edmalfizeo)](https://wakatime.com/@edmalfizeo)
+![Eduardo's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=edmalfizeo&layout=compact&theme=radical)
 
 ---
 
