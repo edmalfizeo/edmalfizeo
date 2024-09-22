@@ -1,7 +1,8 @@
 # Eduardo Mafezoli!
 
-🎓 **Computer Science student** (3rd semester)  
-🚀 **Rocketseat student** learning and exploring the world of web development.
+💻 **Web Developer**
+🎓 **Computer Science** (3rd semester)  
+
 
 ---
 
