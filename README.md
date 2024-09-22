@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Eduardo Mafezoli!
+# Eduardo Mafezoli!
 
 🎓 **Computer Science student** (3rd semester)  
 🚀 **Rocketseat student** learning and exploring the world of web development.
@@ -22,13 +22,6 @@
   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
   ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
 
----
-
-## 📊 Wakatime Stats
-
-![Eduardo's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=edmalfizeo&layout=compact&theme=radical)
-
----
 
 🚀 Always learning, improving, and building something new.
 
