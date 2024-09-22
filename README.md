@@ -1,4 +1,4 @@
-# Eduardo Mafezoli!
+# Hi, I'm Eduardo Mafezoli!
 
 - 💻 **Web Developer**
 - 🎓 **Computer Science** (3rd semester)  
