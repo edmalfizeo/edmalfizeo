@@ -1,7 +1,8 @@
 # Eduardo Mafezoli!
 
-💻 **Web Developer**
-🎓 **Computer Science** (3rd semester)  
+- 💻 **Web Developer**
+- 🎓 **Computer Science** (3rd semester)  
+
 
 
 ---
