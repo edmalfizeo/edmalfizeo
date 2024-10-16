@@ -4,7 +4,6 @@
 - 🎓 **Computer Science** (3rd semester)  
 
 
-
 ---
 
 ## 💻 Technologies & Tools I've learned:
@@ -27,4 +26,5 @@
 
 🚀 Always learning, improving, and building something new.
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=edmalfizeo)](https://wakatime.com/@edmalfizeo)
+## Most Used Languanges
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact&langs_count=4)
