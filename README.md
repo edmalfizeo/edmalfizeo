@@ -26,5 +26,5 @@
 
 🚀 Always learning, improving, and building something new.
 
-## Most Used Languanges
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmalfizeo&layout=compact&langs_count=6)
+## 📊 Most Used Languanges
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmalfizeo&layout=compact&langs_count=5)
